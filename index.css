@@ -1,0 +1,24 @@
+h1{
+    margin: 0px;
+    padding: 0px;
+}
+.copyright{
+    margin: 0px;
+    padding: 0px;
+}
+
+code{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #660000;
+    font-style: normal;
+}
+
+.algo{
+    color: #660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.dark{
+    color: black;
+    font-weight: bold;
+}
